@@ -1,0 +1,5 @@
+pessoa
+cabelo loiro
+pé
+corpo
+cabeça
