@@ -1,5 +1,13 @@
 pessoa
-cabelo loiro
+cabelo preto
 pé
 corpo
 cabeça
+olhos
+sorriso
+coração
+pernas
+braços
+bíceps
+mão
+pé
